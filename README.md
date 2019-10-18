@@ -3,7 +3,7 @@
  * @Contact me: https://shudong.wang/about
  * @Date: 2019-10-18 13:58:24
  * @LastEditors: starkwang
- * @LastEditTime: 2019-10-18 13:58:24
+ * @LastEditTime: 2019-10-18 14:03:32
  * @Description: file content
  -->
 <h1 align="center">Welcome to linux-complete-guide 👋</h1>
@@ -47,5 +47,3 @@ Give a ⭐️ if this project helped you!
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
